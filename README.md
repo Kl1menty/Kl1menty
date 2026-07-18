@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/Kl1menty/Kl1menty/main/GitHub_banner.png)
+![](https://raw.githubusercontent.com/Kl1menty/Kl1menty/main/Frame%20332.png)
 
 I'm Klimentiy from Russia, and I do some content in development. I really enjoy learning languages and frameworks such as Python.
 
