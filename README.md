@@ -23,4 +23,4 @@ I'm Klimentiy from Russia, and I do some content in development. I really enjoy 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# Связь со мной <a href="https://t.me/Kl1menty" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kl1menty/Kl1menty/blob/main/icons_tg.png" alt="telegram" height='24'></a>
+# Связь со мной <a href="https://t.me/Kl1menty" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Kl1menty/Kl1menty/raw/main/icons_tg.png" alt="telegram" height='24'></a>
